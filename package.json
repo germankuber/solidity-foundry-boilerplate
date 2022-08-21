@@ -1,5 +1,5 @@
 {
-  "name": "ethernaut-with-foundry",
+  "name": "solidity-foundry-boilerplate",
   "private": true,
   "scripts": {
     "build": "forge build",
